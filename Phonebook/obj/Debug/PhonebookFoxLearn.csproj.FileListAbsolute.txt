@@ -1,0 +1,9 @@
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\bin\Debug\PhonebookFoxLearn.exe.config
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\bin\Debug\PhonebookFoxLearn.exe
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\bin\Debug\PhonebookFoxLearn.pdb
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\obj\Debug\PhonebookFoxLearn.csprojResolveAssemblyReference.cache
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\obj\Debug\PhonebookFoxLearn.Form1.resources
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\obj\Debug\PhonebookFoxLearn.Properties.Resources.resources
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\obj\Debug\PhonebookFoxLearn.csproj.GenerateResource.Cache
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\obj\Debug\PhonebookFoxLearn.exe
+c:\users\ankit\documents\visual studio 2015\Projects\PhonebookFoxLearn\PhonebookFoxLearn\obj\Debug\PhonebookFoxLearn.pdb
